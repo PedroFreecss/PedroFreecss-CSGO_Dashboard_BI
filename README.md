@@ -39,4 +39,4 @@ Solução: Implementação das funções FORMAT e VALUE no DAX para padronizaç�
 
 📊 Visualização do Projeto
 
-![Demonstração do Dashboard](C:\databases\csgo_proMatches\visuals\FinalProjeto.png)
+![Demonstração do Dashboard](https://prnt.sc/dfzNYn5AkIYF)
